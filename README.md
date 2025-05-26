@@ -9,3 +9,9 @@
 
 ![image](https://github.com/user-attachments/assets/a595e86a-f555-4be5-9c65-6ad0be6b2403)
 
+
+- Tabla Utilizada: Camiones
+
+![image](https://github.com/user-attachments/assets/3767864c-f624-4e57-90eb-11c7035f29c5)
+
+
