@@ -1,16 +1,11 @@
-# myapp
+# Actividad 3 Android - 1068
 
-A new Flutter project.
+- Pantalla Formulario
 
-## Getting Started
+![image](https://github.com/user-attachments/assets/64c27332-2f4a-4e19-a469-850954cb96dd)
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+- Pantalla Detalles
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![image](https://github.com/user-attachments/assets/a595e86a-f555-4be5-9c65-6ad0be6b2403)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
